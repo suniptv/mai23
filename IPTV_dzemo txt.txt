@@ -1,0 +1,1065 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="&&& BOSANSKI KANALI &&&" tvg-logo="&&& BOSANSKI KANALI &&&" group-title="bosanski kanali",&&& BOSANSKI KANALI &&&
+http://osm.mikiosm.com:82/live?cId=466&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTV Maglaj HD" tvg-logo="RTV Maglaj HD" group-title="bosanski kanali",RTV Maglaj HD
+http://osm.mikiosm.com:82/live?cId=562&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="BHT HD" tvg-logo="BHT HD" group-title="bosanski kanali",BHT HD
+http://osm.mikiosm.com:82/live?cId=729&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bht  HD" tvg-logo="Bht  HD" group-title="bosanski kanali",Bht  HD
+http://osm.mikiosm.com:82/live?cId=32&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Ftv  FHD" tvg-logo="Ftv FHD" group-title="bosanski kanali",Ftv  FHD
+http://osm.mikiosm.com:82/live?cId=33&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="FTV FHD" tvg-logo="FTV FHD" group-title="bosanski kanali",FTV FHD
+http://osm.mikiosm.com:82/live?cId=711&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova BH HD" tvg-logo="Nova BH HD " group-title="bosanski kanali",Nova BH HD
+http://osm.mikiosm.com:82/live?cId=47&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova BH  FHD" tvg-logo="Nova BH FHD" group-title="bosanski kanali",Nova BH  FHD
+http://osm.mikiosm.com:82/live?cId=357&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova cinema 2 HD" tvg-logo="Nova cinema 2 HD" group-title="bosanski kanali",Nova cinema 2 HD
+http://osm.mikiosm.com:82/live?cId=755&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema HD" tvg-logo="Nova Cinema HD" group-title="bosanski kanali",Nova Cinema HD
+http://osm.mikiosm.com:82/live?cId=517&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova Family HD" tvg-logo="Nova Family HD" group-title="bosanski kanali",Nova Family HD
+http://osm.mikiosm.com:82/live?cId=733&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Obn Tv HD" tvg-logo="Obn Tv HD" group-title="bosanski kanali",Obn Tv HD
+http://osm.mikiosm.com:82/live?cId=62&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="OBN TV HD" tvg-logo="OBN tv" group-title="bosanski kanali",OBN TV HD
+http://osm.mikiosm.com:82/live?cId=520&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hayat FHD" tvg-logo="Hayat FHD" group-title="bosanski kanali",Hayat FHD
+http://osm.mikiosm.com:82/live?cId=37&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hayat BiH HD" tvg-logo="Hayat BiH HD" group-title="bosanski kanali",Hayat BiH HD
+http://osm.mikiosm.com:82/live?cId=576&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="TV Kanal Lud Zbunjen Normalan FHD" tvg-logo="TV Kanal Lud Zbunjen Normalan FHD" group-title="bosanski kanali",TV Kanal Lud Zbunjen Normalan FHD
+http://osm.mikiosm.com:82/live?cId=199&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hayat Plus" tvg-logo="Hayat Plus" group-title="bosanski kanali",Hayat Plus
+http://osm.mikiosm.com:82/live?cId=38&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Face TV FHD" tvg-logo="Face TV FHD" group-title="bosanski kanali",Face TV FHD
+http://osm.mikiosm.com:82/live?cId=731&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Face  HD" tvg-logo="Face  HD" group-title="bosanski kanali",Face  HD
+http://osm.mikiosm.com:82/live?cId=35&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="N 1 BH" tvg-logo="N 1 Bh" group-title="bosanski kanali",N 1 BH
+http://osm.mikiosm.com:82/live?cId=336&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="N1 TV BH " tvg-logo="N1 TV BH " group-title="bosanski kanali",N1 TV BH 
+http://osm.mikiosm.com:82/live?cId=275&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="MTV Igman HD" tvg-logo="MTV Igman HD" group-title="bosanski kanali",MTV Igman HD
+http://osm.mikiosm.com:82/live?cId=169&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Igman TV HD" tvg-logo="Igman TV HD" group-title="bosanski kanali",Igman TV HD
+http://osm.mikiosm.com:82/live?cId=215&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 HD Islam" tvg-logo="TV 5 HD Islam" group-title="bosanski kanali",TV 5 HD Islam
+http://osm.mikiosm.com:82/live?cId=175&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Medina Live HD" tvg-logo="Medina Live HD" group-title="bosanski kanali",Medina Live HD
+http://osm.mikiosm.com:82/live?cId=525&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTV Islam" tvg-logo="RTV Islam" group-title="bosanski kanali",RTV Islam
+http://osm.mikiosm.com:82/live?cId=454&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Mekka Live HD" tvg-logo="Mekka Live HD" group-title="bosanski kanali",Mekka Live HD
+http://osm.mikiosm.com:82/live?cId=526&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" Quran TV HD" tvg-logo=" Quran TV HD" group-title="bosanski kanali", Quran TV HD
+http://osm.mikiosm.com:82/live?cId=524&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Podrinje " tvg-logo="Rtv Podrinje " group-title="bosanski kanali",Rtv Podrinje 
+http://osm.mikiosm.com:82/live?cId=516&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Aurora HD" tvg-logo="Aurora HD" group-title="bosanski kanali",Aurora HD
+http://osm.mikiosm.com:82/live?cId=543&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" TV Visoko" tvg-logo=" TV Visoko" group-title="bosanski kanali", TV Visoko
+http://osm.mikiosm.com:82/live?cId=508&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Tv  Alternativna" tvg-logo="Tv  Alternativna" group-title="bosanski kanali",Tv  Alternativna
+http://osm.mikiosm.com:82/live?cId=341&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Alfa tv HD" tvg-logo="Alfa tv HD" group-title="bosanski kanali",Alfa tv HD
+http://osm.mikiosm.com:82/live?cId=544&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" TV Sarajevo FHD" tvg-logo="TV Sarajevo FHD" group-title="bosanski kanali", TV Sarajevo FHD
+http://osm.mikiosm.com:82/live?cId=375&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Super TV Europa HD" tvg-logo="Super TV Europa HD" group-title="bosanski kanali",Super TV Europa HD
+http://osm.mikiosm.com:82/live?cId=489&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" TV Sandzak" tvg-logo=" TVSandzak" group-title="bosanski kanali", TV Sandzak
+http://osm.mikiosm.com:82/live?cId=218&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTV Jablanica" tvg-logo="RTV Jablanica" group-title="bosanski kanali",RTV Jablanica
+http://osm.mikiosm.com:82/live?cId=547&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTV Zenica" tvg-logo="RTV Zenica" group-title="bosanski kanali",RTV Zenica
+http://osm.mikiosm.com:82/live?cId=297&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Tv Tesanj" tvg-logo="Tv Tesanj" group-title="bosanski kanali",Tv Tesanj
+http://osm.mikiosm.com:82/live?cId=257&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="TK Tuzla " tvg-logo="TK Tuzla " group-title="bosanski kanali",TK Tuzla 
+http://osm.mikiosm.com:82/live?cId=294&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Usk" tvg-logo="Rtv Usk" group-title="bosanski kanali",Rtv Usk
+http://osm.mikiosm.com:82/live?cId=222&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="TV Cazin HD" tvg-logo="TV Cazin HD" group-title="bosanski kanali",TV Cazin HD
+http://osm.mikiosm.com:82/live?cId=529&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="TV O Kanal" tvg-logo="TV O kanal" group-title="bosanski kanali",TV O Kanal
+http://osm.mikiosm.com:82/live?cId=109&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="KRISTAL TV HD" tvg-logo="KRISTAL TV HD" group-title="bosanski kanali",KRISTAL TV HD
+http://osm.mikiosm.com:82/live?cId=668&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Herceg Bosna BH" tvg-logo="Herceg Bosna BH" group-title="bosanski kanali",Herceg Bosna BH
+http://osm.mikiosm.com:82/live?cId=121&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="TataBrada TV" tvg-logo="TataBrada TV" group-title="bosanski kanali",TataBrada TV
+http://osm.mikiosm.com:82/live?cId=546&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV" tvg-logo="Sevdah TV" group-title="muzicki kanali",Sevdah TV
+http://osm.mikiosm.com:82/live?cId=196&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera Balkans HD" tvg-logo="Aljazeera Balkans HD" group-title="bosanski kanali",Aljazeera Balkans HD
+http://osm.mikiosm.com:82/live?cId=464&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Ntv  Kakanj" tvg-logo="Ntv  Kakanj" group-title="bosanski kanali",Ntv  Kakanj
+http://osm.mikiosm.com:82/live?cId=533&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTV Hit Brcko" tvg-logo=" RTV Hit Brcko" group-title="bosanski kanali",RTV Hit Brcko
+http://osm.mikiosm.com:82/live?cId=310&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sandzak  TV" tvg-logo="Sandzak  TV" group-title="bosanski kanali",Sandzak  TV
+http://osm.mikiosm.com:82/live?cId=273&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="K3 Prnjavor" tvg-logo="K3 Prnjavor" group-title="bosanski kanali",K3 Prnjavor
+http://osm.mikiosm.com:82/live?cId=210&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="City TV" group-title="bosanski kanali",City TV
+http://osm.mikiosm.com:82/live?cId=177&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& DOBRA TV KANALI &&&" tvg-logo="&&& DOBRA TV KANALI &&&" group-title="dobra tv kanali",&&& DOBRA TV KANALI &&&
+http://osm.mikiosm.com:82/live?cId=477&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Dobra Balkanska tv" tvg-logo="Dobra Balkanska tv" group-title="dobra tv kanali",Dobra Balkanska tv
+http://osm.mikiosm.com:82/live?cId=136&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DOBRA BOSNJACKA" tvg-logo="DOBRA BOSNJACKA" group-title="dobra tv kanali",DOBRA BOSNJACKA
+http://osm.mikiosm.com:82/live?cId=463&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& HRVATSKI KANALI &&&" tvg-logo="&&&  HRVATSKI KANALI &&&" group-title="hrvatski kanali",&&& HRVATSKI KANALI &&&
+http://osm.mikiosm.com:82/live?cId=467&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Laudato TV " tvg-logo="Laudato TV " group-title="hrvatski kanali",Laudato TV 
+http://osm.mikiosm.com:82/live?cId=295&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova  TV HR  FHD" tvg-logo="Nova  TV HR FHD" group-title="hrvatski kanali",Nova  TV HR  FHD
+http://osm.mikiosm.com:82/live?cId=24&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova  HR FHD" tvg-logo="Nova  HR FHD" group-title="hrvatski kanali",Nova  HR FHD
+http://osm.mikiosm.com:82/live?cId=303&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Doma TV hr FHD" tvg-logo="Doma TV hr FHD" group-title="hrvatski kanali",Doma TV hr FHD
+http://osm.mikiosm.com:82/live?cId=182&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Doma TV HD" tvg-logo="Doma TV HD" group-title="hrvatski kanali",Doma TV HD
+http://osm.mikiosm.com:82/live?cId=26&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hrt 1 HD" tvg-logo="Hrt 1 HD" group-title="hrvatski kanali",Hrt 1 HD
+http://osm.mikiosm.com:82/live?cId=19&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hrt  2 HD" tvg-logo="Hrt  2 HD" group-title="hrvatski kanali",Hrt  2 HD
+http://osm.mikiosm.com:82/live?cId=20&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hrt 3 HD" tvg-logo="Hrt 3 HD" group-title="hrvatski kanali",Hrt 3 HD
+http://osm.mikiosm.com:82/live?cId=21&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hrt 4  HD" tvg-logo="Hrt 4 HD" group-title="hrvatski kanali",Hrt 4  HD
+http://osm.mikiosm.com:82/live?cId=22&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rtl  HD" tvg-logo="Rtl  HD" group-title="hrvatski kanali",Rtl  HD
+http://osm.mikiosm.com:82/live?cId=23&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTL hr FHD" tvg-logo="RTL hr FHD" group-title="hrvatski kanali",RTL hr FHD
+http://osm.mikiosm.com:82/live?cId=722&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rtl  2" tvg-logo="Rtl  2" group-title="hrvatski kanali",Rtl  2
+http://osm.mikiosm.com:82/live?cId=27&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTL Crime" tvg-logo="RTL Crime" group-title="hrvatski kanali",RTL Crime
+http://osm.mikiosm.com:82/live?cId=28&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTL Passion" tvg-logo="RTL Passion" group-title="hrvatski kanali",RTL Passion
+http://osm.mikiosm.com:82/live?cId=30&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTL Living" tvg-logo="RTL Living" group-title="hrvatski kanali",RTL Living
+http://osm.mikiosm.com:82/live?cId=29&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="N1 HR" tvg-logo="N1 HR" group-title="hrvatski kanali",N1 HR
+http://osm.mikiosm.com:82/live?cId=393&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" Diva TV" tvg-logo="Diva TV" group-title="hrvatski kanali", Diva TV
+http://osm.mikiosm.com:82/live?cId=329&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rtv Banovina" tvg-logo="Rtv Banovina" group-title="hrvatski kanali",Rtv Banovina
+http://osm.mikiosm.com:82/live?cId=500&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTL Croatia World" tvg-logo="RTL Croatia World" group-title="hrvatski kanali",RTL Croatia World
+http://osm.mikiosm.com:82/live?cId=124&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Osjecka TV " tvg-logo="Osjecka TV " group-title="hrvatski kanali",Osjecka TV 
+http://osm.mikiosm.com:82/live?cId=311&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="HR: AL Jazeera" tvg-logo="HR: AL Jazeera" group-title="hrvatski kanali",HR: AL Jazeera
+http://osm.mikiosm.com:82/live?cId=316&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& SRPSKI KANALI &&&" tvg-logo="&&& SRPSKI KANALI &&&" group-title="srpski kanali",&&& SRPSKI KANALI &&&
+http://osm.mikiosm.com:82/live?cId=468&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="O2" tvg-logo="O2" group-title="srpski kanali",O2
+http://osm.mikiosm.com:82/live?cId=150&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova  S FHD" tvg-logo="Nova S FHD" group-title="srpski kanali",Nova  S FHD
+http://osm.mikiosm.com:82/live?cId=353&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova S HD" tvg-logo="Nova S HD" group-title="srpski kanali",Nova S HD
+http://osm.mikiosm.com:82/live?cId=352&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTRS" tvg-logo="RTRS" group-title="srpski kanali",RTRS
+http://osm.mikiosm.com:82/live?cId=126&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rts 1 FHD" tvg-logo="Rts 1FHD" group-title="srpski kanali",Rts 1 FHD
+http://osm.mikiosm.com:82/live?cId=43&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rts 2 FHD" tvg-logo="Rts 2 FHD" group-title="srpski kanali",Rts 2 FHD
+http://osm.mikiosm.com:82/live?cId=44&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rts 3 FHD " tvg-logo="Rts 3 FHD" group-title="srpski kanali",Rts 3 FHD 
+http://osm.mikiosm.com:82/live?cId=45&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Tv Srpske  Dijaspore" tvg-logo="Tv Srpske  Dijaspore" group-title="srpski kanali",Tv Srpske  Dijaspore
+http://osm.mikiosm.com:82/live?cId=458&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rtrs Plus HD" tvg-logo="Rtrs Plus HD" group-title="srpski kanali",Rtrs Plus HD
+http://osm.mikiosm.com:82/live?cId=259&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rts Svet " tvg-logo="Rts Svet " group-title="srpski kanali",Rts Svet 
+http://osm.mikiosm.com:82/live?cId=178&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rts Drama FHD" tvg-logo="Rts Drama FHD" group-title="srpski kanali",Rts Drama FHD
+http://osm.mikiosm.com:82/live?cId=244&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" N 1 HD  RS" tvg-logo=" N 1 HD  RS" group-title="srpski kanali", N 1 HD  RS
+http://osm.mikiosm.com:82/live?cId=392&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTV  Novi Pazar" tvg-logo="RTV  Novi Pazar" group-title="srpski kanali",RTV  Novi Pazar
+http://osm.mikiosm.com:82/live?cId=274&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bn  Tv Hd" tvg-logo="Bn  Tv Hd" group-title="srpski kanali",Bn  Tv Hd
+http://osm.mikiosm.com:82/live?cId=148&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bn Sat" tvg-logo="Bn Sat" group-title="srpski kanali",Bn Sat
+http://osm.mikiosm.com:82/live?cId=174&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="PRVA WORLD FHD" tvg-logo="PRVA WORLD FHD" group-title="srpski kanali",PRVA WORLD FHD
+http://osm.mikiosm.com:82/live?cId=236&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Prva Max FHD" tvg-logo="Prva Max FHD" group-title="srpski kanali",Prva Max FHD
+http://osm.mikiosm.com:82/live?cId=40&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Prva TV FHD" tvg-logo="Prva TV FHD" group-title="srpski kanali",Prva TV FHD
+http://osm.mikiosm.com:82/live?cId=206&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Prva Cick HD" tvg-logo="Prva Cick HD" group-title="srpski kanali",Prva Cick HD
+http://osm.mikiosm.com:82/live?cId=332&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Prva Plus HD" tvg-logo="Prva Plus HD" group-title="srpski kanali",Prva Plus HD
+http://osm.mikiosm.com:82/live?cId=41&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Kcn 1" tvg-logo="Kcn 1" group-title="srpski kanali",Kcn 1
+http://osm.mikiosm.com:82/live?cId=69&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Kcn 3" tvg-logo="Kcn 3" group-title="srpski kanali",Kcn 3
+http://osm.mikiosm.com:82/live?cId=71&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Kcn 2" tvg-logo="Kcn 2" group-title="srpski kanali",Kcn 2
+http://osm.mikiosm.com:82/live?cId=70&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="K 3" tvg-logo="K 3" group-title="srpski kanali",K 3
+http://osm.mikiosm.com:82/live?cId=167&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTV Vojvodina 1" tvg-logo="RTV Vojvodina 1" group-title="srpski kanali",RTV Vojvodina 1
+http://osm.mikiosm.com:82/live?cId=330&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Happy Pariovi Live 1" tvg-logo="Happy Pariovi Live 1" group-title="srpski kanali",Happy Pariovi Live 1
+http://osm.mikiosm.com:82/live?cId=296&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hapy TV" tvg-logo="Happy TV" group-title="srpski kanali",Hapy TV
+http://osm.mikiosm.com:82/live?cId=68&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="HAPPY hapy" tvg-logo="HAPPY hapy" group-title="srpski kanali",HAPPY hapy
+http://osm.mikiosm.com:82/live?cId=746&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="B92 TV" tvg-logo="B92 TV" group-title="srpski kanali",B92 TV
+http://osm.mikiosm.com:82/live?cId=105&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& CRNA GORA &&&" tvg-logo="&&& CRNA GORA &&&" group-title="crna gora",&&& CRNA GORA &&&
+http://osm.mikiosm.com:82/live?cId=510&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Montenegro Luxembourg" tvg-logo="Montenegro Luxembourg" group-title="crna gora",Montenegro Luxembourg
+http://osm.mikiosm.com:82/live?cId=512&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="TV 777" tvg-logo="TV 777" group-title="crna gora",TV 777
+http://osm.mikiosm.com:82/live?cId=511&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="TV VIJESTI CG" tvg-logo="TV VIJESTI CG" group-title="crna gora",TV VIJESTI CG
+http://osm.mikiosm.com:82/live?cId=461&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="CG: RTCG SAT" tvg-logo="CG: RTCG SAT" group-title="crna gora",CG: RTCG SAT
+http://osm.mikiosm.com:82/live?cId=122&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Crna Gora 1" tvg-logo="CrnaGora 1" group-title="crna gora",Crna Gora 1
+http://osm.mikiosm.com:82/live?cId=201&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Crna Gora 2" tvg-logo="Crna Gora 2" group-title="crna gora",Crna Gora 2
+http://osm.mikiosm.com:82/live?cId=213&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova M" tvg-logo="Nova M" group-title="crna gora",Nova M
+http://osm.mikiosm.com:82/live?cId=101&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Kanal A HD SLO" tvg-logo="Kanal A HD SLO" group-title="crna gora",Kanal A HD SLO
+http://osm.mikiosm.com:82/live?cId=656&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pop TV HD slo" tvg-logo="Pop TV HD slo" group-title="crna gora",Pop TV HD slo
+http://osm.mikiosm.com:82/live?cId=657&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Planet TV slo" tvg-logo="Planet TV slo" group-title="crna gora",Planet TV slo
+http://osm.mikiosm.com:82/live?cId=658&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& MUZICKI KANALI &&&" tvg-logo="&&& MUZICKI KANALI &&&" group-title="muzicki kanali",&&& MUZICKI KANALI &&&
+http://osm.mikiosm.com:82/live?cId=469&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sehara TV HD" tvg-logo="Sehara TV HD" group-title="bosanski kanali",Sehara TV HD
+http://osm.mikiosm.com:82/live?cId=395&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Toxic TV  Folk" tvg-logo="Toxic TV  Folk" group-title="muzicki kanali",Toxic TV  Folk
+http://osm.mikiosm.com:82/live?cId=726&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Imperia TV" tvg-logo="Imperia TV" group-title="muzicki kanali",Imperia TV
+http://osm.mikiosm.com:82/live?cId=286&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Duga TV HD" tvg-logo="Duga TV HD" group-title="muzicki kanali",Duga TV HD
+http://osm.mikiosm.com:82/live?cId=605&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Valentino  TV " tvg-logo="Valentino TV" group-title="muzicki kanali",Valentino  TV 
+http://osm.mikiosm.com:82/live?cId=487&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Grand TV" tvg-logo="Grand TV" group-title="muzicki kanali",Grand TV
+http://osm.mikiosm.com:82/live?cId=348&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Grand tv 2" tvg-logo="Grand tv 2" group-title="muzicki kanali",Grand tv 2
+http://osm.mikiosm.com:82/live?cId=140&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Grand Narodna TV" tvg-logo="Grand Narodna TV" group-title="muzicki kanali",Grand Narodna TV
+http://osm.mikiosm.com:82/live?cId=83&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 1 " tvg-logo="Pink Folk 1 " group-title="muzicki kanali",Pink Folk 1 
+http://osm.mikiosm.com:82/live?cId=385&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Music 1 " tvg-logo="Pink Music 1 " group-title="muzicki kanali",Pink Music 1 
+http://osm.mikiosm.com:82/live?cId=479&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 2 " tvg-logo="Pink Folk 2 " group-title="muzicki kanali",Pink Folk 2 
+http://osm.mikiosm.com:82/live?cId=478&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="BN  Music" tvg-logo="BN  Music" group-title="muzicki kanali",BN  Music
+http://osm.mikiosm.com:82/live?cId=82&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DM Sat" tvg-logo="DM Sat" group-title="muzicki kanali",DM Sat
+http://osm.mikiosm.com:82/live?cId=46&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Jugoton TV" tvg-logo="Jugoton TV" group-title="muzicki kanali",Jugoton TV
+http://osm.mikiosm.com:82/live?cId=504&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="MTV Dance" group-title="muzicki kanali",MTV Dance
+http://osm.mikiosm.com:82/live?cId=507&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits " tvg-logo="MTV Hits " group-title="muzicki kanali",MTV Hits 
+http://osm.mikiosm.com:82/live?cId=321&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="MTV Adria " tvg-logo="MTV Adria " group-title="muzicki kanali",MTV Adria 
+http://osm.mikiosm.com:82/live?cId=176&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hayat  Folk TV" tvg-logo="Hayat  Folk TV" group-title="muzicki kanali",Hayat  Folk TV
+http://osm.mikiosm.com:82/live?cId=402&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hayat Music" tvg-logo="Hayat Music" group-title="muzicki kanali",Hayat Music
+http://osm.mikiosm.com:82/live?cId=39&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="CMC TV " tvg-logo="CMC TV " group-title="muzicki kanali",CMC TV 
+http://osm.mikiosm.com:82/live?cId=141&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="IDJ TV" tvg-logo="IDJ TV" group-title="muzicki kanali",IDJ TV
+http://osm.mikiosm.com:82/live?cId=194&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Izvorna Tv" tvg-logo="izvorna tv" group-title="muzicki kanali",Izvorna Tv
+http://osm.mikiosm.com:82/live?cId=386&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Balkanika " tvg-logo="Balkanika" group-title="muzicki kanali",Balkanika 
+http://osm.mikiosm.com:82/live?cId=81&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="NTV 101" tvg-logo="NTV 101" group-title="muzicki kanali",NTV 101
+http://osm.mikiosm.com:82/live?cId=200&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& DOMACI FILMOVI &&&" tvg-logo="&&& DOMACI FILMOVI &&&" group-title="filmoteka",&&& DOMACI FILMOVI &&&
+http://osm.mikiosm.com:82/live?cId=673&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Mujo I Suljo Vicev" tvg-logo="Mujo I Suljo Vicev" group-title="filmoteka",Mujo I Suljo Vicev
+http://osm.mikiosm.com:82/live?cId=719&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nebo.iznad.Nas.2015 N" tvg-logo="Nebo.iznad.Nas.2015 N" group-title="filmoteka",Nebo.iznad.Nas.2015 N
+http://osm.mikiosm.com:82/live?cId=677&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rane 1998 Film N" tvg-logo="Rane 1998 Film N" group-title="filmoteka",Rane 1998 Film N
+http://osm.mikiosm.com:82/live?cId=671&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Juzni vjetar Film 2018 N" tvg-logo="Juzni vjetar Film 2018 N" group-title="filmoteka",Juzni vjetar Film 2018 N
+http://osm.mikiosm.com:82/live?cId=691&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Quo Vadis Aida 2020 N" tvg-logo="Quo Vadis Aida 2020 N" group-title="filmoteka",Quo Vadis Aida 2020 N
+http://osm.mikiosm.com:82/live?cId=672&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Ringeraja  RS" tvg-logo="Ringeraja  RS" group-title="filmoteka",Ringeraja  RS
+http://osm.mikiosm.com:82/live?cId=679&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="One Shot" tvg-logo="One Shot" group-title="filmoteka",One Shot
+http://osm.mikiosm.com:82/live?cId=678&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Insight " tvg-logo="Insight " group-title="filmoteka",Insight 
+http://osm.mikiosm.com:82/live?cId=712&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Kozara 1962" tvg-logo="Kozara 1962" group-title="filmoteka",Kozara 1962
+http://osm.mikiosm.com:82/live?cId=692&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Otac na sluzbenom putu 1985 N" tvg-logo="Otac na sluzbenom putu 1985 N" group-title="filmoteka",Otac na sluzbenom putu 1985 N
+http://osm.mikiosm.com:82/live?cId=687&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Lepa sela lepo gore 1996 N" tvg-logo="Lepa sela lepo gore 1996 N" group-title="filmoteka",Lepa sela lepo gore 1996 N
+http://osm.mikiosm.com:82/live?cId=686&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sizif K  RS N" tvg-logo="Sizif K  RS N" group-title="filmoteka",Sizif K  RS N
+http://osm.mikiosm.com:82/live?cId=676&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Goli Otok  YU N" tvg-logo="Goli Otok  YU N" group-title="filmoteka",Goli Otok  YU N
+http://osm.mikiosm.com:82/live?cId=682&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="The Boss Baby Family Business" tvg-logo="The Boss Baby Family Business" group-title="filmoteka",The Boss Baby Family Business
+http://osm.mikiosm.com:82/live?cId=683&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Toma Zdravkovic Film N" tvg-logo="Toma Zdravkovic Film N" group-title="filmoteka",Toma Zdravkovic Film N
+http://osm.mikiosm.com:82/live?cId=694&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Skater Girl  " tvg-logo="Skater Girl  " group-title="filmoteka",Skater Girl  
+http://osm.mikiosm.com:82/live?cId=675&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Valter Brani Sarajevo 1972 N" tvg-logo="Valter Brani Sarajevo 1972 N" group-title="filmoteka",Valter Brani Sarajevo 1972 N
+http://osm.mikiosm.com:82/live?cId=688&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Karaula 2006 N" tvg-logo="Karaula 2006 N" group-title="filmoteka",Karaula 2006 N
+http://osm.mikiosm.com:82/live?cId=696&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nicije Dete  RS N" tvg-logo="Nicije Dete  RS N" group-title="filmoteka",Nicije Dete  RS N
+http://osm.mikiosm.com:82/live?cId=689&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Ljeto U Zlatnoj Dolini  N" tvg-logo="Ljeto U Zlatnoj Dolini  N" group-title="filmoteka",Ljeto U Zlatnoj Dolini  N
+http://osm.mikiosm.com:82/live?cId=690&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Partizanska Eskadrila " tvg-logo="Partizanska Eskadrila " group-title="filmoteka",Partizanska Eskadrila 
+http://osm.mikiosm.com:82/live?cId=192&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat Legends Battle Of The Realms" tvg-logo="Mortal Kombat Legends Battle Of The Realms" group-title="filmoteka",Mortal Kombat Legends Battle Of The Realms
+http://osm.mikiosm.com:82/live?cId=542&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="Godzilla vs. Kong (2021)" group-title="filmoteka",Godzilla vs. Kong (2021)
+http://osm.mikiosm.com:82/live?cId=561&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Petak 13  RS N" tvg-logo="Petak 13  RS N" group-title="filmoteka",Petak 13  RS N
+http://osm.mikiosm.com:82/live?cId=405&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Kad Porastem Bicu Kengur  N" tvg-logo="Kad Porastem Bicu Kengur  N" group-title="filmoteka",Kad Porastem Bicu Kengur  N
+http://osm.mikiosm.com:82/live?cId=707&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Tajni Sastojak  MK N" tvg-logo="Tajni Sastojak  MK N" group-title="filmoteka",Tajni Sastojak  MK N
+http://osm.mikiosm.com:82/live?cId=514&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Otpisani 1974  N" tvg-logo="Otpisani 1974 N" group-title="filmoteka",Otpisani 1974  N
+http://osm.mikiosm.com:82/live?cId=399&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nacije Dete  RS" tvg-logo="Nicije Dete  RS" group-title="filmoteka",Nacije Dete  RS
+http://osm.mikiosm.com:82/live?cId=715&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Ismet Horo Ex-YU N" tvg-logo="Ismet Horo Ex-YU N" group-title="filmoteka",Ismet Horo Ex-YU N
+http://osm.mikiosm.com:82/live?cId=548&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Artik 2019 (2019)" tvg-logo="Artik 2019 (2019)" group-title="filmoteka",Artik 2019 (2019)
+http://osm.mikiosm.com:82/live?cId=697&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RODE U MAGLI 1 N" tvg-logo="RODE U MAGLI 1 N" group-title="filmoteka",RODE U MAGLI 1 N
+http://osm.mikiosm.com:82/live?cId=700&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Dom za vesanje 1988 N" tvg-logo="Dom za vesanje 1988 N" group-title="filmoteka",Dom za vesanje 1988 N
+http://osm.mikiosm.com:82/live?cId=701&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Moljac Ex-YU N" tvg-logo="Moljac Ex-YU N" group-title="filmoteka",Moljac Ex-YU N
+http://osm.mikiosm.com:82/live?cId=702&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pokondirena Tikva  YU N" tvg-logo="Pokondirena Tikva  YU N" group-title="filmoteka",Pokondirena Tikva  YU N
+http://osm.mikiosm.com:82/live?cId=704&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="The Hitmans Wifes Bodyguard" tvg-logo="The Hitmans Wifes Bodyguard" group-title="filmoteka",The Hitmans Wifes Bodyguard
+http://osm.mikiosm.com:82/live?cId=706&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Profesionalac  RS N " tvg-logo="Profesionalac  RS N" group-title="filmoteka",Profesionalac  RS N 
+http://osm.mikiosm.com:82/live?cId=709&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Dervis I Smrt  YU N" tvg-logo="Dervis I Smrt  YU N" group-title="filmoteka",Dervis I Smrt  YU N
+http://osm.mikiosm.com:82/live?cId=710&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& FILMSKI KANALI &&&" tvg-logo="&&& FILMSKI KANALI &&&" group-title="filmski kanali",&&& FILMSKI KANALI &&&
+http://osm.mikiosm.com:82/live?cId=480&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sehara Online 24 sata filmovi" tvg-logo="Sehara Online 24 sata filmovi" group-title="filmski kanali",Sehara Online 24 sata filmovi
+http://osm.mikiosm.com:82/live?cId=256&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Total Cinema 1 HD" tvg-logo="Total Cinema 1 HD" group-title="filmski kanali",Total Cinema 1 HD
+http://osm.mikiosm.com:82/live?cId=238&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Total Cinema 2 HD" tvg-logo="Total Cinema 2 HD" group-title="filmski kanali",Total Cinema 2 HD
+http://osm.mikiosm.com:82/live?cId=460&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Total Cinema 3 HD" tvg-logo="Total Cinema 3 HD" group-title="filmski kanali",Total Cinema 3 HD
+http://osm.mikiosm.com:82/live?cId=498&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Sky Drama HD " tvg-logo="Balkan Sky Drama HD" group-title="filmski kanali",Balkan Sky Drama HD 
+http://osm.mikiosm.com:82/live?cId=584&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Klasic TV" tvg-logo="Klasic TV" group-title="filmski kanali",Klasic TV
+http://osm.mikiosm.com:82/live?cId=217&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Film Klub HD" tvg-logo="Film Klub HD" group-title="filmski kanali",Film Klub HD
+http://osm.mikiosm.com:82/live?cId=587&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hbo 1 HD" tvg-logo="Hbo1 HD" group-title="filmski kanali",Hbo 1 HD
+http://osm.mikiosm.com:82/live?cId=283&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hbo 2 HD" tvg-logo="Hbo 2 HD" group-title="filmski kanali",Hbo 2 HD
+http://osm.mikiosm.com:82/live?cId=58&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hbo 3 HD" tvg-logo="Hbo 3 HD" group-title="filmski kanali",Hbo 3 HD
+http://osm.mikiosm.com:82/live?cId=59&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemania HD" tvg-logo="Cinemania HD" group-title="filmski kanali",Cinemania HD
+http://osm.mikiosm.com:82/live?cId=300&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinestar 1 TV HD" tvg-logo="Cinestar 1 TV HD" group-title="filmski kanali",Cinestar 1 TV HD
+http://osm.mikiosm.com:82/live?cId=60&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" Cinestar Comedy HD" tvg-logo=" Cinestar Comedy HD" group-title="filmski kanali", Cinestar Comedy HD
+http://osm.mikiosm.com:82/live?cId=207&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinestar TV 1 HD" tvg-logo="Cinestar TV 1 HD" group-title="filmski kanali",Cinestar TV 1 HD
+http://osm.mikiosm.com:82/live?cId=435&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" Cinestar TV 2 HD" tvg-logo="  Cinestar TV 2 HD" group-title="filmski kanali", Cinestar TV 2 HD
+http://osm.mikiosm.com:82/live?cId=219&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinestar Premiere 1 HD" tvg-logo="Cinestar Premiere 1 HD" group-title="filmski kanali",Cinestar Premiere 1 HD
+http://osm.mikiosm.com:82/live?cId=15&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinestar Premiere 2 HD" tvg-logo="Cinestar Premiere  2 HD" group-title="filmski kanali",Cinestar Premiere 2 HD
+http://osm.mikiosm.com:82/live?cId=16&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinestar Action HD" tvg-logo="Cinestar Action HD" group-title="filmski kanali",Cinestar Action HD
+http://osm.mikiosm.com:82/live?cId=61&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinestar Fantasy HD" tvg-logo="Cinestar Fantasy HD" group-title="filmski kanali",Cinestar Fantasy HD
+http://osm.mikiosm.com:82/live?cId=351&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 1 HD" tvg-logo="Cinemacious 1 HD" group-title="filmski kanali",Cinemacious 1 HD
+http://osm.mikiosm.com:82/live?cId=674&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 2 HD" tvg-logo="Cinemacious 2 HD" group-title="filmski kanali",Cinemacious 2 HD
+http://osm.mikiosm.com:82/live?cId=685&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 3 HD" tvg-logo="Cinemacious 3 HD" group-title="filmski kanali",Cinemacious 3 HD
+http://osm.mikiosm.com:82/live?cId=721&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 4 HD" tvg-logo="Cinemacious 4 HD" group-title="filmski kanali",Cinemacious 4 HD
+http://osm.mikiosm.com:82/live?cId=680&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 5 HD" tvg-logo="Cinemacious 5 HD" group-title="filmski kanali",Cinemacious 5 HD
+http://osm.mikiosm.com:82/live?cId=708&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 6 HD" tvg-logo="Cinemacious 6 HD" group-title="filmski kanali",Cinemacious 6 HD
+http://osm.mikiosm.com:82/live?cId=693&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 7 HD" tvg-logo="Cinemacious 7 HD" group-title="filmski kanali",Cinemacious 7 HD
+http://osm.mikiosm.com:82/live?cId=698&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemacious 8 HD" tvg-logo="Cinemacious 8 HD" group-title="filmski kanali",Cinemacious 8 HD
+http://osm.mikiosm.com:82/live?cId=703&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Scifi HD" tvg-logo="Scifi HD" group-title="filmski kanali",Scifi HD
+http://osm.mikiosm.com:82/live?cId=279&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="Cinemax HD" group-title="filmski kanali",Cinemax HD
+http://osm.mikiosm.com:82/live?cId=111&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax 2 HD" tvg-logo="Cinemax 2 HD" group-title="filmski kanali",Cinemax 2 HD
+http://osm.mikiosm.com:82/live?cId=278&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Amc HD" tvg-logo="Amc HD" group-title="filmski kanali",Amc HD
+http://osm.mikiosm.com:82/live?cId=581&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Maxcro Select 1 HD" tvg-logo="Maxcro Select 1 HD" group-title="filmski kanali",Maxcro Select 1 HD
+http://osm.mikiosm.com:82/live?cId=574&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Maxcro Select 2 HD" tvg-logo="Maxcro Select 2 HD" group-title="filmski kanali",Maxcro Select 2 HD
+http://osm.mikiosm.com:82/live?cId=575&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Maxcro Select 3 HD" tvg-logo="Maxcro Select 3 HD" group-title="filmski kanali",Maxcro Select 3 HD
+http://osm.mikiosm.com:82/live?cId=312&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Maxcro Select 4 HD" tvg-logo="Maxcro Select 4 HD" group-title="filmski kanali",Maxcro Select 4 HD
+http://osm.mikiosm.com:82/live?cId=573&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Maxcro Select 5 HD" tvg-logo="Maxcro Select 5 HD" group-title="filmski kanali",Maxcro Select 5 HD
+http://osm.mikiosm.com:82/live?cId=31&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Maxcro Select 6 HD" tvg-logo="Maxcro Select 6 HD" group-title="filmski kanali",Maxcro Select 6 HD
+http://osm.mikiosm.com:82/live?cId=214&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Maxcro Select 7 HD" tvg-logo="Maxcro Select 7 HD" group-title="filmski kanali",Maxcro Select 7 HD
+http://osm.mikiosm.com:82/live?cId=99&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Maxcro Select 8 HD" tvg-logo="Maxcro Select 8 HD" group-title="filmski kanali",Maxcro Select 8 HD
+http://osm.mikiosm.com:82/live?cId=545&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Film  box Extra HD" tvg-logo="Film   box Extra HD" group-title="filmski kanali",Film  box Extra HD
+http://osm.mikiosm.com:82/live?cId=223&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Superstar TV HD" tvg-logo="Superstar TV HD" group-title="filmski kanali",Superstar TV HD
+http://osm.mikiosm.com:82/live?cId=328&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Diva HD" tvg-logo="Diva HD" group-title="filmski kanali",Diva HD
+http://osm.mikiosm.com:82/live?cId=481&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Epic Drama" tvg-logo="Epic Drama" group-title="filmski kanali",Epic Drama
+http://osm.mikiosm.com:82/live?cId=506&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Kino TV HD" tvg-logo="Kino TV HD" group-title="filmski kanali",Kino TV HD
+http://osm.mikiosm.com:82/live?cId=265&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Tv 1000" tvg-logo="Tv 1000" group-title="filmski kanali",Tv 1000
+http://osm.mikiosm.com:82/live?cId=224&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="AXN Spin HD " tvg-logo="AXN Spin HD" group-title="filmski kanali",AXN Spin HD 
+http://osm.mikiosm.com:82/live?cId=314&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Axn HD" tvg-logo="Axn HD" group-title="filmski kanali",Axn HD
+http://osm.mikiosm.com:82/live?cId=320&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="Fox Life" group-title="filmski kanali",Fox Life
+http://osm.mikiosm.com:82/live?cId=100&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD" tvg-logo="Fox HD" group-title="filmski kanali",Fox HD
+http://osm.mikiosm.com:82/live?cId=73&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime HD " tvg-logo="Fox Crime HD " group-title="filmski kanali",Fox Crime HD 
+http://osm.mikiosm.com:82/live?cId=74&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" Fox Crime HD" tvg-logo=" Fox Crime HD" group-title="filmski kanali", Fox Crime HD
+http://osm.mikiosm.com:82/live?cId=276&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="M1 Film" tvg-logo="M1 Film" group-title="filmski kanali",M1 Film
+http://osm.mikiosm.com:82/live?cId=231&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="FOX movies " tvg-logo="FOX movies " group-title="filmski kanali",FOX movies 
+http://osm.mikiosm.com:82/live?cId=243&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Vavoom HD" tvg-logo="Vavoom HD" group-title="filmski kanali",Vavoom HD
+http://osm.mikiosm.com:82/live?cId=482&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="PickBox  HD" tvg-logo="Pickbox HD" group-title="filmski kanali",PickBox  HD
+http://osm.mikiosm.com:82/live?cId=488&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& PINK KANALI &&&" tvg-logo="&&& PINK KANALI &&&" group-title="pink kanali",&&& PINK KANALI &&&
+http://osm.mikiosm.com:82/live?cId=475&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Zadruga Reality " tvg-logo="Zadruga Reality " group-title="pink kanali",Zadruga Reality 
+http://osm.mikiosm.com:82/live?cId=110&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" Pink Zadruga 1" tvg-logo=" Pink Zadruga 1" group-title="pink kanali", Pink Zadruga 1
+http://osm.mikiosm.com:82/live?cId=436&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink  Zadruga  2" tvg-logo="Pink  Zadruga  2" group-title="pink kanali",Pink  Zadruga  2
+http://osm.mikiosm.com:82/live?cId=522&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 3" tvg-logo="Pink Zadruga 3" group-title="pink kanali",Pink Zadruga 3
+http://osm.mikiosm.com:82/live?cId=523&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zadruga 4" tvg-logo="Pink Zadruga 4" group-title="pink kanali",Pink Zadruga 4
+http://osm.mikiosm.com:82/live?cId=251&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink  Bih" tvg-logo="Pink  Bih" group-title="pink kanali",Pink  Bih
+http://osm.mikiosm.com:82/live?cId=502&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink  BH" tvg-logo="Pink  BH" group-title="pink kanali",Pink  BH
+http://osm.mikiosm.com:82/live?cId=271&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="PINK HD" tvg-logo="PINK HD" group-title="pink kanali",PINK HD
+http://osm.mikiosm.com:82/live?cId=754&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink FHD" tvg-logo="Pink FHD" group-title="pink kanali",Pink FHD
+http://osm.mikiosm.com:82/live?cId=53&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Action" tvg-logo="Pink Action" group-title="pink kanali",Pink Action
+http://osm.mikiosm.com:82/live?cId=18&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Film" tvg-logo="Pink Film" group-title="pink kanali",Pink Film
+http://osm.mikiosm.com:82/live?cId=315&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Serije" tvg-logo="Pink Serije" group-title="pink kanali",Pink Serije
+http://osm.mikiosm.com:82/live?cId=669&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Western" tvg-logo="Pink Western" group-title="pink kanali",Pink Western
+http://osm.mikiosm.com:82/live?cId=52&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Horror" tvg-logo="Pink Horror" group-title="pink kanali",Pink Horror
+http://osm.mikiosm.com:82/live?cId=113&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Movies" tvg-logo="Pink Movies" group-title="pink kanali",Pink Movies
+http://osm.mikiosm.com:82/live?cId=48&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Premium" tvg-logo="Pink Premium" group-title="pink kanali",Pink Premium
+http://osm.mikiosm.com:82/live?cId=51&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Thriler" tvg-logo="Pink Thriler" group-title="pink kanali",Pink Thriler
+http://osm.mikiosm.com:82/live?cId=50&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Romance" tvg-logo="Pink Romance" group-title="pink kanali",Pink Romance
+http://osm.mikiosm.com:82/live?cId=139&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Crime and Mystery" tvg-logo="Pink Crime and Mystery" group-title="pink kanali",Pink Crime and Mystery
+http://osm.mikiosm.com:82/live?cId=505&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink SCI & Fantasy" tvg-logo="Pink SCI  & Fantasy" group-title="pink kanali",Pink SCI & Fantasy
+http://osm.mikiosm.com:82/live?cId=54&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Comedy" tvg-logo="Pink Comedy" group-title="pink kanali",Pink Comedy
+http://osm.mikiosm.com:82/live?cId=56&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Pedia" tvg-logo="Pink Pedia" group-title="pink kanali",Pink Pedia
+http://osm.mikiosm.com:82/live?cId=343&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink 2 HD" tvg-logo="Pink 2 HD" group-title="pink kanali",Pink 2 HD
+http://osm.mikiosm.com:82/live?cId=114&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink 3 FHD" tvg-logo="Pink 3 FHD" group-title="pink kanali",Pink 3 FHD
+http://osm.mikiosm.com:82/live?cId=202&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Kuvar" tvg-logo="Pink Kuvar" group-title="pink kanali",Pink Kuvar
+http://osm.mikiosm.com:82/live?cId=387&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Reality" tvg-logo="Pink Reality" group-title="pink kanali",Pink Reality
+http://osm.mikiosm.com:82/live?cId=17&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink World" tvg-logo="Pink World" group-title="pink kanali",Pink World
+http://osm.mikiosm.com:82/live?cId=49&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Plus" tvg-logo="Pink Plus" group-title="pink kanali",Pink Plus
+http://osm.mikiosm.com:82/live?cId=72&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Exstra" tvg-logo="Pink Exstra" group-title="pink kanali",Pink Exstra
+http://osm.mikiosm.com:82/live?cId=203&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Zabava" tvg-logo="Pink Zabava" group-title="pink kanali",Pink Zabava
+http://osm.mikiosm.com:82/live?cId=104&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Soap" tvg-logo="Pink Soap" group-title="pink kanali",Pink Soap
+http://osm.mikiosm.com:82/live?cId=115&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Bravo" tvg-logo="Pink Bravo" group-title="pink kanali",Pink Bravo
+http://osm.mikiosm.com:82/live?cId=55&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Lol" tvg-logo="Pink Lol" group-title="pink kanali",Pink Lol
+http://osm.mikiosm.com:82/live?cId=349&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&&  DJECIJI KANALI &&&" tvg-logo="&&&  DJECIJI KANALI &&&" group-title="djeciji kanali",&&&  DJECIJI KANALI &&&
+http://osm.mikiosm.com:82/live?cId=470&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova TV Kids HD" tvg-logo="Nova TV Kids HD" group-title="djeciji kanali",Nova TV Kids HD
+http://osm.mikiosm.com:82/live?cId=659&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Toggo Plus" tvg-logo="Toggo Plus" group-title="djeciji kanali",Toggo Plus
+http://osm.mikiosm.com:82/live?cId=717&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Mali Leteci Medvjedici 3" tvg-logo="Mali Leteci Medvjedici 3" group-title="djeciji kanali",Mali Leteci Medvjedici 3
+http://osm.mikiosm.com:82/live?cId=718&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Spuzva Bob" tvg-logo="Spuzva Bob" group-title="djeciji kanali",Spuzva Bob
+http://osm.mikiosm.com:82/live?cId=269&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Minimax" tvg-logo="Minimax" group-title="djeciji kanali",Minimax
+http://osm.mikiosm.com:82/live?cId=290&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Masa I Medvjed FHD" tvg-logo="Masa I Medvjed FHD" group-title="djeciji kanali",Masa I Medvjed FHD
+http://osm.mikiosm.com:82/live?cId=359&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink  Kids" tvg-logo="Pink Kids" group-title="djeciji kanali",Pink  Kids
+http://osm.mikiosm.com:82/live?cId=335&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" PINK WORLD CINEMA" tvg-logo="PINK WORLD CINEMA" group-title="pink kanali", PINK WORLD CINEMA
+http://osm.mikiosm.com:82/live?cId=307&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pink Super Kids " tvg-logo="Pink Super Kids " group-title="djeciji kanali",Pink Super Kids 
+http://osm.mikiosm.com:82/live?cId=430&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bomerang" tvg-logo="Bomerang" group-title="djeciji kanali",Bomerang
+http://osm.mikiosm.com:82/live?cId=431&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Tnt Kids" tvg-logo="Tnt Kids" group-title="djeciji kanali",Tnt Kids
+http://osm.mikiosm.com:82/live?cId=495&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="Baby TV" group-title="djeciji kanali",Baby TV
+http://osm.mikiosm.com:82/live?cId=429&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Hayatovci" tvg-logo="Hayatovci" group-title="djeciji kanali",Hayatovci
+http://osm.mikiosm.com:82/live?cId=108&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Netvork" tvg-logo="Cartoon Netvork" group-title="djeciji kanali",Cartoon Netvork
+http://osm.mikiosm.com:82/live?cId=89&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Pikaboo HR" tvg-logo="Pikaboo HR" group-title="djeciji kanali",Pikaboo HR
+http://osm.mikiosm.com:82/live?cId=88&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Tom and Jeryy HD" tvg-logo="Tom and Jeryy HD" group-title="djeciji kanali",Tom and Jeryy HD
+http://osm.mikiosm.com:82/live?cId=107&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Mini TV" tvg-logo="Mini TV" group-title="djeciji kanali",Mini TV
+http://osm.mikiosm.com:82/live?cId=87&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nick JR" tvg-logo="Nick JR" group-title="djeciji kanali",Nick JR
+http://osm.mikiosm.com:82/live?cId=86&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RTL Kockica" tvg-logo="RTL Kockica" group-title="djeciji kanali",RTL Kockica
+http://osm.mikiosm.com:82/live?cId=84&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="Nickelodeon" group-title="djeciji kanali",Nickelodeon
+http://osm.mikiosm.com:82/live?cId=85&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& SPORTSKI KANALI &&&" tvg-logo="&&& SPORTSKI KANALI &&&" group-title="sportski kanali",&&& SPORTSKI KANALI &&&
+http://osm.mikiosm.com:82/live?cId=471&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Max sport 1 FHD" tvg-logo="Max sport 1 FHD" group-title="sportski kanali",Max sport 1 FHD
+http://osm.mikiosm.com:82/live?cId=90&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Max sport 2 FHD" tvg-logo="Max sport 2 FHD" group-title="sportski kanali",Max sport 2 FHD
+http://osm.mikiosm.com:82/live?cId=593&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nova Sport  BH" tvg-logo="Nova Sport BH" group-title="sportski kanali",Nova Sport  BH
+http://osm.mikiosm.com:82/live?cId=513&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Moja TV BH Premier Liga" tvg-logo="Moja TV BH Premier Liga" group-title="sportski kanali",Moja TV BH Premier Liga
+http://osm.mikiosm.com:82/live?cId=625&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport BH" tvg-logo="Arena Sport BH" group-title="sportski kanali",Arena Sport BH
+http://osm.mikiosm.com:82/live?cId=239&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Fight HD" tvg-logo="Arena Fight HD" group-title="sportski kanali",Arena Fight HD
+http://osm.mikiosm.com:82/live?cId=734&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena sport  BiH" tvg-logo="Arena sport  BiH" group-title="sportski kanali",Arena sport  BiH
+http://osm.mikiosm.com:82/live?cId=583&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 Premium FHD" tvg-logo="Arena Sport 1 Premium FHD" group-title="sportski kanali",Arena Sport 1 Premium FHD
+http://osm.mikiosm.com:82/live?cId=646&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 Premium HD" tvg-logo="Arena Sport 1 Premium HD" group-title="sportski kanali",Arena Sport 1 Premium HD
+http://osm.mikiosm.com:82/live?cId=737&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 Premium FHD" tvg-logo="Arena Sport 2 Premium FHD" group-title="sportski kanali",Arena Sport 2 Premium FHD
+http://osm.mikiosm.com:82/live?cId=644&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 Premium HD" tvg-logo="Arena Sport 2 Premium HD" group-title="sportski kanali",Arena Sport 2 Premium HD
+http://osm.mikiosm.com:82/live?cId=738&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 Premium FHD" tvg-logo="Arena Sport 3 Premium FHD" group-title="sportski kanali",Arena Sport 3 Premium FHD
+http://osm.mikiosm.com:82/live?cId=645&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 Premium HD" tvg-logo="Arena Sport 3 Premium HD" group-title="sportski kanali",Arena Sport 3 Premium HD
+http://osm.mikiosm.com:82/live?cId=739&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD SRB." tvg-logo="Arena Sport 1 HD SRB." group-title="sportski kanali",Arena Sport 1 HD SRB.
+http://osm.mikiosm.com:82/live?cId=379&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 SR HD" tvg-logo="Arena Sport 1 SR HD" group-title="sportski kanali",Arena Sport 1 SR HD
+http://osm.mikiosm.com:82/live?cId=741&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2  HD SRB." tvg-logo="Arena Sport 2  HD SRB." group-title="sportski kanali",Arena Sport 2  HD SRB.
+http://osm.mikiosm.com:82/live?cId=8&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD SRB." tvg-logo="Arena Sport 3 HD SRB." group-title="sportski kanali",Arena Sport 3 HD SRB.
+http://osm.mikiosm.com:82/live?cId=9&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD SRB." tvg-logo="Arena Sport 4 HD SRB." group-title="sportski kanali",Arena Sport 4 HD SRB.
+http://osm.mikiosm.com:82/live?cId=10&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD SRB." tvg-logo="Arena Sport 5 HD SRB." group-title="sportski kanali",Arena Sport 5 HD SRB.
+http://osm.mikiosm.com:82/live?cId=11&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD HR." tvg-logo="Arena Sport 1 HD HR." group-title="sportski kanali",Arena Sport 1 HD HR.
+http://osm.mikiosm.com:82/live?cId=91&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HR HD" tvg-logo="Arena Sport 1 HR HD" group-title="sportski kanali",Arena Sport 1 HR HD
+http://osm.mikiosm.com:82/live?cId=740&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD HR." tvg-logo="Arena Sport 2 HD HR." group-title="sportski kanali",Arena Sport 2 HD HR.
+http://osm.mikiosm.com:82/live?cId=92&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD HR." tvg-logo="Arena Sport 3 HD HR." group-title="sportski kanali",Arena Sport 3 HD HR.
+http://osm.mikiosm.com:82/live?cId=93&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD HR." tvg-logo="Arena Sport 4 HD HR." group-title="sportski kanali",Arena Sport 4 HD HR.
+http://osm.mikiosm.com:82/live?cId=94&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD HR." tvg-logo="Arena Sport 5 HD HR." group-title="sportski kanali",Arena Sport 5 HD HR.
+http://osm.mikiosm.com:82/live?cId=95&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6 HD  HR." tvg-logo="Arena Sport 6 HD  HR." group-title="sportski kanali",Arena Sport 6 HD  HR.
+http://osm.mikiosm.com:82/live?cId=309&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7  HD HR." tvg-logo="Arena Sport 7  HD HR." group-title="sportski kanali",Arena Sport 7  HD HR.
+http://osm.mikiosm.com:82/live?cId=596&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8 HD HR." tvg-logo="Arena Sport 8 HD HR." group-title="sportski kanali",Arena Sport 8 HD HR.
+http://osm.mikiosm.com:82/live?cId=597&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 9 HD HR." tvg-logo="Arena Sport 9 HD HR." group-title="sportski kanali",Arena Sport 9 HD HR.
+http://osm.mikiosm.com:82/live?cId=598&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 10 HD HR." tvg-logo="Arena Sport 10 HD HR." group-title="sportski kanali",Arena Sport 10 HD HR.
+http://osm.mikiosm.com:82/live?cId=599&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 FHD SRB." tvg-logo="Sport Klub 1 FHD SRB." group-title="sportski kanali",Sport Klub 1 FHD SRB.
+http://osm.mikiosm.com:82/live?cId=1&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 SR HD" tvg-logo="Sport Klub 1 SR HD" group-title="sportski kanali",Sport Klub 1 SR HD
+http://osm.mikiosm.com:82/live?cId=725&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD SRB." tvg-logo="Sport Klub 2 HD SRB." group-title="sportski kanali",Sport Klub 2 HD SRB.
+http://osm.mikiosm.com:82/live?cId=2&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD SRB." tvg-logo="Sport Klub 3 HD SRB." group-title="sportski kanali",Sport Klub 3 HD SRB.
+http://osm.mikiosm.com:82/live?cId=3&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 FHD SRB." tvg-logo="Sport Klub 4 FHD SRB." group-title="sportski kanali",Sport Klub 4 FHD SRB.
+http://osm.mikiosm.com:82/live?cId=4&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 FHD SRB." tvg-logo="Sport Klub 5 FHD SRB." group-title="sportski kanali",Sport Klub 5 FHD SRB.
+http://osm.mikiosm.com:82/live?cId=5&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="SportT Klub 6 FHD SRB." tvg-logo="SportT Klub 6 FHD SRB." group-title="sportski kanali",SportT Klub 6 FHD SRB.
+http://osm.mikiosm.com:82/live?cId=6&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 7 HD SRB." tvg-logo="Sport Klub 7 HD SRB." group-title="sportski kanali",Sport Klub 7 HD SRB.
+http://osm.mikiosm.com:82/live?cId=414&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 8 HD SRB." tvg-logo="Sport Klub 8 HD SRB." group-title="sportski kanali",Sport Klub 8 HD SRB.
+http://osm.mikiosm.com:82/live?cId=601&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 9 HD SRB." tvg-logo="Sport Klub 9 HD SRB." group-title="sportski kanali",Sport Klub 9 HD SRB.
+http://osm.mikiosm.com:82/live?cId=602&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 10 HD SRB." tvg-logo="Sport Klub 10 HD SRB." group-title="sportski kanali",Sport Klub 10 HD SRB.
+http://osm.mikiosm.com:82/live?cId=603&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 FHD HR." tvg-logo="Sport Klub 1 FHD HR." group-title="sportski kanali",Sport Klub 1 FHD HR.
+http://osm.mikiosm.com:82/live?cId=117&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 1 HR hd" tvg-logo="SPORT KLUB 1 HR hd" group-title="sportski kanali",SPORT KLUB 1 HR hd
+http://osm.mikiosm.com:82/live?cId=742&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 FHD HR." tvg-logo="Sport Klub 2 FHD HR." group-title="sportski kanali",Sport Klub 2 FHD HR.
+http://osm.mikiosm.com:82/live?cId=118&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD HR." tvg-logo="Sport Klub 3 HD HR." group-title="sportski kanali",Sport Klub 3 HD HR.
+http://osm.mikiosm.com:82/live?cId=119&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 HD HR." tvg-logo="Sport Klub 4 HD HR." group-title="sportski kanali",Sport Klub 4 HD HR.
+http://osm.mikiosm.com:82/live?cId=120&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 FHD  HR." tvg-logo="Sport Klub 5 FHD  HR." group-title="sportski kanali",Sport Klub 5 FHD  HR.
+http://osm.mikiosm.com:82/live?cId=604&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6  HD HR" tvg-logo="Sport Klub 6 HD HR" group-title="sportski kanali",Sport Klub 6  HD HR
+http://osm.mikiosm.com:82/live?cId=413&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Start" tvg-logo="Sport Klub Start" group-title="sportski kanali",Sport Klub Start
+http://osm.mikiosm.com:82/live?cId=230&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport  Klub  1 HD SLO." tvg-logo="Sport  Klub  1 HD SLO." group-title="sportski kanali",Sport  Klub  1 HD SLO.
+http://osm.mikiosm.com:82/live?cId=537&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD  SLO." tvg-logo="Sport Klub 2 HD  SLO." group-title="sportski kanali",Sport Klub 2 HD  SLO.
+http://osm.mikiosm.com:82/live?cId=366&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD" tvg-logo="Sport Klub HD" group-title="sportski kanali",Sport Klub HD
+http://osm.mikiosm.com:82/live?cId=559&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD SRB." tvg-logo="Eurosport 1 HD SRB." group-title="sportski kanali",Eurosport 1 HD SRB.
+http://osm.mikiosm.com:82/live?cId=96&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD SRB." tvg-logo="Eurosport 2 HD SRB." group-title="sportski kanali",Eurosport 2 HD SRB.
+http://osm.mikiosm.com:82/live?cId=97&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Arena E Sport" tvg-logo="Arena E Sport" group-title="sportski kanali",Arena E Sport
+http://osm.mikiosm.com:82/live?cId=723&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="FR:Bein Sport 1 HD" tvg-logo="FR:Bein Sport 1 HD" group-title="sportski kanali",FR:Bein Sport 1 HD
+http://osm.mikiosm.com:82/live?cId=627&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="FR:Bein Sport 2 HD" tvg-logo="FR:Bein Sport 2 HD" group-title="sportski kanali",FR:Bein Sport 2 HD
+http://osm.mikiosm.com:82/live?cId=628&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="FR:Bein Sport 3 HD" tvg-logo="FR:Bein Sport 3 HD" group-title="sportski kanali",FR:Bein Sport 3 HD
+http://osm.mikiosm.com:82/live?cId=629&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 4 HD" tvg-logo="|FR| BEIN MAX 4 HD" group-title="sportski kanali",|FR| BEIN MAX 4 HD
+http://osm.mikiosm.com:82/live?cId=747&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 5 HD" tvg-logo="|FR| BEIN MAX 5 HD" group-title="sportski kanali",|FR| BEIN MAX 5 HD
+http://osm.mikiosm.com:82/live?cId=748&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 6 HD" tvg-logo="|FR| BEIN MAX 6 HD" group-title="sportski kanali",|FR| BEIN MAX 6 HD
+http://osm.mikiosm.com:82/live?cId=749&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 7 HD" tvg-logo="|FR| BEIN MAX 7 HD" group-title="sportski kanali",|FR| BEIN MAX 7 HD
+http://osm.mikiosm.com:82/live?cId=750&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 8 HD" tvg-logo="|FR| BEIN MAX 8 HD" group-title="sportski kanali",|FR| BEIN MAX 8 HD
+http://osm.mikiosm.com:82/live?cId=556&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 9 HD" tvg-logo="|FR| BEIN MAX 9 HD" group-title="sportski kanali",|FR| BEIN MAX 9 HD
+http://osm.mikiosm.com:82/live?cId=751&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="|FR| BEIN MAX 10 HD" tvg-logo="|FR| BEIN MAX 10 HD" group-title="sportski kanali",|FR| BEIN MAX 10 HD
+http://osm.mikiosm.com:82/live?cId=752&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Bundesliga 1 HD" tvg-logo="DE: Sky Sport Bundesliga 1HD" group-title="sportski kanali",DE: Sky Sport Bundesliga 1 HD
+http://osm.mikiosm.com:82/live?cId=159&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 2 HD" tvg-logo="DE:Sky Sport Bundesliga 2 HD" group-title="sportski kanali",DE:Sky Sport Bundesliga 2 HD
+http://osm.mikiosm.com:82/live?cId=160&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 3 HD " tvg-logo="DE.Sky Sport Bundesliga 3 HD" group-title="sportski kanali",DE:Sky Sport Bundesliga 3 HD 
+http://osm.mikiosm.com:82/live?cId=161&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 4 HD" tvg-logo="DE:Sky Sport Bundesliga 4 HD" group-title="sportski kanali",DE:Sky Sport Bundesliga 4 HD
+http://osm.mikiosm.com:82/live?cId=162&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 5 HD " tvg-logo="DE:Sky Sport Bundesliga 5 HD" group-title="sportski kanali",DE:Sky Sport Bundesliga 5 HD 
+http://osm.mikiosm.com:82/live?cId=163&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 6 HD " tvg-logo="DE:Sky Sport Bundesliga 6 HD " group-title="sportski kanali",DE:Sky Sport Bundesliga 6 HD 
+http://osm.mikiosm.com:82/live?cId=630&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 7 HD " tvg-logo="DE:Sky Sport Bundesliga 7 HD " group-title="sportski kanali",DE:Sky Sport Bundesliga 7 HD 
+http://osm.mikiosm.com:82/live?cId=528&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE:Sky Sport Bundesliga 8 HD " tvg-logo="DE:Sky Sport Bundesliga 8 HD " group-title="sportski kanali",DE:Sky Sport Bundesliga 8 HD 
+http://osm.mikiosm.com:82/live?cId=457&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 1 HD" tvg-logo="DE: Sky Sport 1 HD" group-title="sportski kanali",DE: Sky Sport 1 HD
+http://osm.mikiosm.com:82/live?cId=389&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 HD" tvg-logo="DE: Sky Sport 2 HD" group-title="sportski kanali",DE: Sky Sport 2 HD
+http://osm.mikiosm.com:82/live?cId=390&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 HD" tvg-logo="DE: Sky Sport 3 HD" group-title="sportski kanali",DE: Sky Sport 3 HD
+http://osm.mikiosm.com:82/live?cId=634&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 HD" tvg-logo="DE: Sky Sport 4 HD" group-title="sportski kanali",DE: Sky Sport 4 HD
+http://osm.mikiosm.com:82/live?cId=600&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 HD" tvg-logo="DE: Sky Sport 5 HD" group-title="sportski kanali",DE: Sky Sport 5 HD
+http://osm.mikiosm.com:82/live?cId=635&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="UFC TV" group-title="sportski kanali",UFC TV
+http://osm.mikiosm.com:82/live?cId=527&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD (US)" tvg-logo="NBA TV HD (US)" group-title="sportski kanali",NBA TV HD (US)
+http://osm.mikiosm.com:82/live?cId=735&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 1" tvg-logo="Art Sport 1" group-title="sportski kanali",Art Sport 1
+http://osm.mikiosm.com:82/live?cId=234&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 HD" tvg-logo="Art Sport 2 HD" group-title="sportski kanali",Art Sport 2 HD
+http://osm.mikiosm.com:82/live?cId=235&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport HD 3" tvg-logo="Art Sport HD 3" group-title="sportski kanali",Art Sport HD 3
+http://osm.mikiosm.com:82/live?cId=636&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Fight  Kanal HR" tvg-logo="Fight  Kanal HR" group-title="sportski kanali",Fight  Kanal HR
+http://osm.mikiosm.com:82/live?cId=345&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Fight  Kanal HR hd" tvg-logo="Fight  Kanal HR hd" group-title="sportski kanali",Fight  Kanal HR hd
+http://osm.mikiosm.com:82/live?cId=563&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Eng: Sky Sport Racing HD" tvg-logo="Eng: Sky Sport Racing HD" group-title="sportski kanali",Eng: Sky Sport Racing HD
+http://osm.mikiosm.com:82/live?cId=661&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Eng: Sky Sport Mix HD" tvg-logo="Eng: Sky Sport Mix HD" group-title="sportski kanali",Eng: Sky Sport Mix HD
+http://osm.mikiosm.com:82/live?cId=579&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="MK: MPT 1 HD" tvg-logo="MK: MPT 1 HD" group-title="sportski kanali",MK: MPT 1 HD
+http://osm.mikiosm.com:82/live?cId=631&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="MK: MPT 2 HD" tvg-logo="MK: MPT 2 HD" group-title="sportski kanali",MK: MPT 2 HD
+http://osm.mikiosm.com:82/live?cId=632&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="PT:SPORT TV 3 HD" tvg-logo="PT:SPORT TV 3 HD" group-title="sportski kanali",PT:SPORT TV 3 HD
+http://osm.mikiosm.com:82/live?cId=633&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="PT:Sport TV 5  HD" tvg-logo="PT:Sport TV 5  HD" group-title="sportski kanali",PT:Sport TV 5  HD
+http://osm.mikiosm.com:82/live?cId=377&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1 HD" tvg-logo="Digi Sport 1 HD" group-title="sportski kanali",Digi Sport 1 HD
+http://osm.mikiosm.com:82/live?cId=589&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2 HD" tvg-logo="Digi Sport 2 HD" group-title="sportski kanali",Digi Sport 2 HD
+http://osm.mikiosm.com:82/live?cId=588&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 3 HD" tvg-logo="Digi Sport 3 HD" group-title="sportski kanali",Digi Sport 3 HD
+http://osm.mikiosm.com:82/live?cId=590&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria HD" tvg-logo="Sky Sport Austria HD" group-title="sportski kanali",Sky Sport Austria HD
+http://osm.mikiosm.com:82/live?cId=592&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Bar 1 HD DE." tvg-logo="Dazn Bar 1 HD DE." group-title="sportski kanali",Dazn Bar 1 HD DE.
+http://osm.mikiosm.com:82/live?cId=577&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Bar 2 HD DE." tvg-logo="Dazn Bar 2 HD DE." group-title="sportski kanali",Dazn Bar 2 HD DE.
+http://osm.mikiosm.com:82/live?cId=578&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1 HD AR." tvg-logo="Bein Sport 1 HD AR." group-title="sportski kanali",Bein Sport 1 HD AR.
+http://osm.mikiosm.com:82/live?cId=12&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2 HD AR." tvg-logo="Bein Sport 2 HD AR." group-title="sportski kanali",Bein Sport 2 HD AR.
+http://osm.mikiosm.com:82/live?cId=14&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 3 HD AR." tvg-logo="Bein Sport 3 HD AR." group-title="sportski kanali",Bein Sport 3 HD AR.
+http://osm.mikiosm.com:82/live?cId=382&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4 HD AR." tvg-logo="Bein Sport 4 HD AR." group-title="sportski kanali",Bein Sport 4 HD AR.
+http://osm.mikiosm.com:82/live?cId=302&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5 HD AR." tvg-logo="Bein Sport 5 HD AR." group-title="sportski kanali",Bein Sport 5 HD AR.
+http://osm.mikiosm.com:82/live?cId=485&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6 HD AR." tvg-logo="Bein Sport 6 HD AR." group-title="sportski kanali",Bein Sport 6 HD AR.
+http://osm.mikiosm.com:82/live?cId=530&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7 HD AR." tvg-logo="Bein Sport 7 HD AR." group-title="sportski kanali",Bein Sport 7 HD AR.
+http://osm.mikiosm.com:82/live?cId=557&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 9 HD AR." tvg-logo="Bein Sport 9 HD AR." group-title="sportski kanali",Bein Sport 9 HD AR.
+http://osm.mikiosm.com:82/live?cId=554&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Liverpool TV" tvg-logo="Liverpool TV" group-title="sportski kanali",Liverpool TV
+http://osm.mikiosm.com:82/live?cId=553&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RED BUL HD" tvg-logo="RED BUL HD" group-title="sportski kanali",RED BUL HD
+http://osm.mikiosm.com:82/live?cId=732&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bayern  TV HD" tvg-logo="Bayern  TV HD" group-title="sportski kanali",Bayern  TV HD
+http://osm.mikiosm.com:82/live?cId=569&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="WWE Raw Network HD" tvg-logo="WWE Raw Network HD" group-title="sportski kanali",WWE Raw Network HD
+http://osm.mikiosm.com:82/live?cId=558&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 HD" tvg-logo="Tring Sport 1 HD" group-title="sportski kanali",Tring Sport 1 HD
+http://osm.mikiosm.com:82/live?cId=347&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 FHD" tvg-logo="Sky Sports F1 FHD" group-title="sportski kanali",Sky Sports F1 FHD
+http://osm.mikiosm.com:82/live?cId=555&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="Tring Sport 2 HD" group-title="sportski kanali",Tring Sport 2 HD
+http://osm.mikiosm.com:82/live?cId=432&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 AL" tvg-logo="Super Sport 3 AL" group-title="sportski kanali",Super Sport 3 AL
+http://osm.mikiosm.com:82/live?cId=388&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 FHD" tvg-logo="BT Sport 1 FHD" group-title="sportski kanali",BT Sport 1 FHD
+http://osm.mikiosm.com:82/live?cId=132&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 FHD" tvg-logo="BT Sport 2 FHD" group-title="sportski kanali",BT Sport 2 FHD
+http://osm.mikiosm.com:82/live?cId=133&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 FHD" tvg-logo="BT Sport 3 FHD" group-title="sportski kanali",BT Sport 3 FHD
+http://osm.mikiosm.com:82/live?cId=134&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD" tvg-logo="Fox Sports 1 HD" group-title="sportski kanali",Fox Sports 1 HD
+http://osm.mikiosm.com:82/live?cId=298&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" tvg-logo="Fox Sports 2 HD" group-title="sportski kanali",Fox Sports 2 HD
+http://osm.mikiosm.com:82/live?cId=299&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 HD" tvg-logo="Fox Sports 3 HD" group-title="sportski kanali",Fox Sports 3 HD
+http://osm.mikiosm.com:82/live?cId=171&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD DE." tvg-logo="Eurosport 1 HD DE." group-title="sportski kanali",Eurosport 1 HD DE.
+http://osm.mikiosm.com:82/live?cId=170&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="/// DOKUMENTARNI KANALI ///" tvg-logo="/// DOKUMENTARNI KANALI ///" group-title="dokumentarni",/// DOKUMENTARNI KANALI ///
+http://osm.mikiosm.com:82/live?cId=472&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nov@ Dokumentarni HD" tvg-logo="Nov@ Dokumentarni HD" group-title="dokumentarni",Nov@ Dokumentarni HD
+http://osm.mikiosm.com:82/live?cId=228&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nov@ Dokumentarni 2 HD " tvg-logo="Nov@ Dokumentarni 2 HD " group-title="dokumentarni",Nov@ Dokumentarni 2 HD 
+http://osm.mikiosm.com:82/live?cId=618&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Rtl Dokumentarni HD" tvg-logo="Rtl Dokumentarni HD" group-title="dokumentarni",Rtl Dokumentarni HD
+http://osm.mikiosm.com:82/live?cId=494&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD" tvg-logo="Nat Geo Wild HD" group-title="dokumentarni",Nat Geo Wild HD
+http://osm.mikiosm.com:82/live?cId=76&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD" tvg-logo="National Geographic HD" group-title="dokumentarni",National Geographic HD
+http://osm.mikiosm.com:82/live?cId=75&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD " tvg-logo="Dicovery HD" group-title="dokumentarni",Discovery HD 
+http://osm.mikiosm.com:82/live?cId=188&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SHOWCASE HD hr" tvg-logo="DISCOVERY SHOWCASE HD hr" group-title="dokumentarni",DISCOVERY SHOWCASE HD hr
+http://osm.mikiosm.com:82/live?cId=585&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Viasat Nature" tvg-logo="Viasat Nature" group-title="dokumentarni",Viasat Nature
+http://osm.mikiosm.com:82/live?cId=428&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Viasat History" tvg-logo="Viasat History" group-title="dokumentarni",Viasat History
+http://osm.mikiosm.com:82/live?cId=79&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="VIiasat Explorer" tvg-logo="Viasat Explorer" group-title="dokumentarni",VIiasat Explorer
+http://osm.mikiosm.com:82/live?cId=78&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="History Channel" group-title="dokumentarni",History Channel
+http://osm.mikiosm.com:82/live?cId=346&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="History Channel 2" tvg-logo="History Channel 2" group-title="dokumentarni",History Channel 2
+http://osm.mikiosm.com:82/live?cId=77&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="Discovery Science HD" group-title="dokumentarni",Discovery Science HD
+http://osm.mikiosm.com:82/live?cId=409&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="Investigation Discovery" group-title="dokumentarni",Investigation Discovery
+http://osm.mikiosm.com:82/live?cId=394&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation HD" tvg-logo="Crime Investigation HD " group-title="dokumentarni",Crime Investigation HD
+http://osm.mikiosm.com:82/live?cId=255&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Doku  TV" tvg-logo="Ddoku  TV" group-title="dokumentarni",Doku  TV
+http://osm.mikiosm.com:82/live?cId=427&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HR HD " tvg-logo="Animal Planet HR HD" group-title="dokumentarni",Animal Planet HR HD 
+http://osm.mikiosm.com:82/live?cId=103&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Travel " tvg-logo="Travel" group-title="dokumentarni",Travel 
+http://osm.mikiosm.com:82/live?cId=233&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Bbc Earth" tvg-logo="Bbc Earth" group-title="dokumentarni",Bbc Earth
+http://osm.mikiosm.com:82/live?cId=410&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Lov i Ribolov" tvg-logo="Lov i Ribolov" group-title="dokumentarni",Lov i Ribolov
+http://osm.mikiosm.com:82/live?cId=102&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality" tvg-logo="CBS Reality" group-title="dokumentarni",CBS Reality
+http://osm.mikiosm.com:82/live?cId=331&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DA VINCI LEARNING" tvg-logo="DA VINCI LEARNING" group-title="dokumentarni",DA VINCI LEARNING
+http://osm.mikiosm.com:82/live?cId=326&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="TLC" group-title="dokumentarni",TLC
+http://osm.mikiosm.com:82/live?cId=327&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="24 kitchen" tvg-logo="24 kitchen" group-title="dokumentarni",24 kitchen
+http://osm.mikiosm.com:82/live?cId=80&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& NJEMACKI KANALI &&&" tvg-logo="&&& NJEMACKI KANALI &&&" group-title="njemacki kanali",&&& NJEMACKI KANALI &&&
+http://osm.mikiosm.com:82/live?cId=474&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Rtl HD" tvg-logo="DE: Rtl HD" group-title="njemacki kanali",DE: Rtl HD
+http://osm.mikiosm.com:82/live?cId=226&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Rtl 2 HD" tvg-logo="DE: Rtl 2 HD" group-title="njemacki kanali",DE: Rtl 2 HD
+http://osm.mikiosm.com:82/live?cId=367&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Rtl Crime HD" tvg-logo="DE: Rtl Crime HD" group-title="njemacki kanali",DE: Rtl Crime HD
+http://osm.mikiosm.com:82/live?cId=260&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Super RTL HD" tvg-logo="DE: Super RTL HD" group-title="njemacki kanali",DE: Super RTL HD
+http://osm.mikiosm.com:82/live?cId=153&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: ARD HD" tvg-logo="DE: ARD HD" group-title="njemacki kanali",DE: ARD HD
+http://osm.mikiosm.com:82/live?cId=662&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Cine 24" tvg-logo="DE: Cine 24" group-title="njemacki kanali",DE: Cine 24
+http://osm.mikiosm.com:82/live?cId=619&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Zdf Info HD" tvg-logo="DE: Zdf Info HD" group-title="njemacki kanali",DE: Zdf Info HD
+http://osm.mikiosm.com:82/live?cId=183&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Zdf HD" tvg-logo="DE: Zdf HD" group-title="njemacki kanali",DE: Zdf HD
+http://osm.mikiosm.com:82/live?cId=608&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 HD" tvg-logo="DE: Kabel 1 HD" group-title="njemacki kanali",DE: Kabel 1 HD
+http://osm.mikiosm.com:82/live?cId=621&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Kabel 1 Doku HD" tvg-logo="DE: Kabel 1 Doku HD" group-title="njemacki kanali",DE: Kabel 1 Doku HD
+http://osm.mikiosm.com:82/live?cId=622&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sixx HD" tvg-logo="DE: Sixx HD" group-title="njemacki kanali",DE: Sixx HD
+http://osm.mikiosm.com:82/live?cId=624&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Vox HD" tvg-logo="DE: Vox HD" group-title="njemacki kanali",DE: Vox HD
+http://osm.mikiosm.com:82/live?cId=606&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Fox" tvg-logo="DE: Fox" group-title="njemacki kanali",DE: Fox
+http://osm.mikiosm.com:82/live?cId=262&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: HS Cinema Jackie Chan Collection" tvg-logo="DE: HS Cinema Jackie Chan Collection" group-title="njemacki kanali",DE: HS Cinema Jackie Chan Collection
+http://osm.mikiosm.com:82/live?cId=607&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE:3 Sat HD" tvg-logo="DE:3 Sat HD" group-title="njemacki kanali",DE:3 Sat HD
+http://osm.mikiosm.com:82/live?cId=371&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Pro 7 HD" tvg-logo="DE: Pro 7 HD" group-title="njemacki kanali",DE: Pro 7 HD
+http://osm.mikiosm.com:82/live?cId=501&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE:  Sat 1 HD" tvg-logo="DE:  Sat 1 HD" group-title="njemacki kanali",DE:  Sat 1 HD
+http://osm.mikiosm.com:82/live?cId=166&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Tnt Film HD" tvg-logo="DE: Tnt Film HD" group-title="njemacki kanali",DE: Tnt Film HD
+http://osm.mikiosm.com:82/live?cId=531&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Orf 1 HD" tvg-logo="DE: Orf 1 HD" group-title="njemacki kanali",DE: Orf 1 HD
+http://osm.mikiosm.com:82/live?cId=209&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 6 HD" tvg-logo="DE: SKY SELECT 6 HD" group-title="njemacki kanali",DE: SKY SELECT 6 HD
+http://osm.mikiosm.com:82/live?cId=616&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Puls 4 HD" tvg-logo="DE: Puls 4 HD" group-title="njemacki kanali",DE: Puls 4 HD
+http://osm.mikiosm.com:82/live?cId=615&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Plus 4 HD" tvg-logo="DE: Plus 4 HD" group-title="njemacki kanali",DE: Plus 4 HD
+http://osm.mikiosm.com:82/live?cId=220&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 HD" tvg-logo="DE: Sky Select 1 HD" group-title="njemacki kanali",DE: Sky Select 1 HD
+http://osm.mikiosm.com:82/live?cId=356&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 HD" tvg-logo="DE: Sky Select 2 HD" group-title="njemacki kanali",DE: Sky Select 2 HD
+http://osm.mikiosm.com:82/live?cId=227&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 HD" tvg-logo="DE: Sky Select 3 HD" group-title="njemacki kanali",DE: Sky Select 3 HD
+http://osm.mikiosm.com:82/live?cId=609&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 HD" tvg-logo="DE: Sky Select 4 HD" group-title="njemacki kanali",DE: Sky Select 4 HD
+http://osm.mikiosm.com:82/live?cId=610&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 HD" tvg-logo="DE: Sky Select 5 HD" group-title="njemacki kanali",DE: Sky Select 5 HD
+http://osm.mikiosm.com:82/live?cId=611&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE:  SKY SELECT 7 HD" tvg-logo="DE:  SKY SELECT 7 HD" group-title="njemacki kanali",DE:  SKY SELECT 7 HD
+http://osm.mikiosm.com:82/live?cId=225&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SELECT 8 HD" tvg-logo="DE: SKY SELECT 8 HD" group-title="njemacki kanali",DE: SKY SELECT 8 HD
+http://osm.mikiosm.com:82/live?cId=623&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name=" DE: Sky Cinema Nostalgie HD" tvg-logo="DE. Sky Cinema Nostalgie HD" group-title="njemacki kanali", DE: Sky Cinema Nostalgie HD
+http://osm.mikiosm.com:82/live?cId=370&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Emotion" tvg-logo="DE:Emotion" group-title="njemacki kanali",DE: Emotion
+http://osm.mikiosm.com:82/live?cId=301&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 3 HD" tvg-logo="DE: KiNOBOX 3 HD" group-title="njemacki kanali",DE: KiNOBOX 3 HD
+http://osm.mikiosm.com:82/live?cId=532&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nostalgie HD" tvg-logo="DE: Sky Nostalgie HD" group-title="njemacki kanali",DE: Sky Nostalgie HD
+http://osm.mikiosm.com:82/live?cId=493&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Junior HD" tvg-logo="DE: Disney Junior HD" group-title="njemacki kanali",DE: Disney Junior HD
+http://osm.mikiosm.com:82/live?cId=185&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Disney Cinemagic HD" tvg-logo="DE: Disney Cinemagic HD" group-title="njemacki kanali",DE: Disney Cinemagic HD
+http://osm.mikiosm.com:82/live?cId=492&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Nat Geo Wild HD" tvg-logo="DE: Nat Geo Wild HD" group-title="njemacki kanali",DE: Nat Geo Wild HD
+http://osm.mikiosm.com:82/live?cId=369&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: National Geo HD" tvg-logo="DE: National Geo HD" group-title="njemacki kanali",DE: National Geo HD
+http://osm.mikiosm.com:82/live?cId=459&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Animal Planet HD" tvg-logo="DE: Animal Planet HD" group-title="njemacki kanali",DE: Animal Planet HD
+http://osm.mikiosm.com:82/live?cId=266&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: History CH" tvg-logo="DE: History CH" group-title="njemacki kanali",DE: History CH
+http://osm.mikiosm.com:82/live?cId=376&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: Discovery HD" tvg-logo="DE:Discovery HD" group-title="njemacki kanali",DE: Discovery HD
+http://osm.mikiosm.com:82/live?cId=491&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="DE: KiNOBOX 1 HD" tvg-logo="DE: KiNOBOX 1 HD" group-title="njemacki kanali",DE: KiNOBOX 1 HD
+http://osm.mikiosm.com:82/live?cId=190&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& RADIO STANICE &&&" tvg-logo="&&& RADIO STANICE &&&" group-title="EX-YU",&&& RADIO STANICE &&&
+http://osm.mikiosm.com:82/live?cId=565&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio  Bir" tvg-logo="Radio  Bir" group-title="radio stanice",Radio  Bir
+http://osm.mikiosm.com:82/live?cId=568&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RADIO MIX BIH" tvg-logo="RADIO MIX BIH" group-title="radio stanice",RADIO MIX BIH
+http://osm.mikiosm.com:82/live?cId=594&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RADIO SEHARA" tvg-logo="RADIO SEHARA" group-title="radio stanice",RADIO SEHARA
+http://osm.mikiosm.com:82/live?cId=654&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio 101 Zagreb" tvg-logo="Radio 101 Zagreb" group-title="radio stanice",Radio 101 Zagreb
+http://osm.mikiosm.com:82/live?cId=355&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Balkan Hip-Hop Banjaluka" tvg-logo="Radio Balkan Hip-Hop Banjaluka" group-title="radio stanice",Radio Balkan Hip-Hop Banjaluka
+http://osm.mikiosm.com:82/live?cId=165&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RSG RADIO" tvg-logo="RSG RADIO" group-title="radio stanice",RSG RADIO
+http://osm.mikiosm.com:82/live?cId=648&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Free Europa" tvg-logo="Radio Free Europa" group-title="radio stanice",Radio Free Europa
+http://osm.mikiosm.com:82/live?cId=595&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="HRVATSKI RADIO FRANKFURT" tvg-logo="HRVATSKI RADIO FRANKFURT" group-title="radio stanice",HRVATSKI RADIO FRANKFURT
+http://osm.mikiosm.com:82/live?cId=650&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 8" tvg-logo="RADIO 8" group-title="radio stanice",RADIO 8
+http://osm.mikiosm.com:82/live?cId=653&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Kameleon" tvg-logo="Radio Kameleon" group-title="radio stanice",Radio Kameleon
+http://osm.mikiosm.com:82/live?cId=486&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Zenit Zenica" tvg-logo="Radio Zenit Zenica" group-title="radio stanice",Radio Zenit Zenica
+http://osm.mikiosm.com:82/live?cId=261&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="BN Radio" tvg-logo="BN Radio" group-title="radio stanice",BN Radio
+http://osm.mikiosm.com:82/live?cId=564&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Antena Zagreb" tvg-logo="Antena Zagreb" group-title="radio stanice",Antena Zagreb
+http://osm.mikiosm.com:82/live?cId=567&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio  Dzungla" tvg-logo="Radio  Dzungla" group-title="radio stanice",Radio  Dzungla
+http://osm.mikiosm.com:82/live?cId=187&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Avaz" tvg-logo="Radio Avaz" group-title="radio stanice",Radio Avaz
+http://osm.mikiosm.com:82/live?cId=570&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Antena Jelah" tvg-logo="Radio Antena Jelah" group-title="radio stanice",Radio Antena Jelah
+http://osm.mikiosm.com:82/live?cId=350&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dalmacija" tvg-logo="Radio Dalmacija" group-title="radio stanice",Radio Dalmacija
+http://osm.mikiosm.com:82/live?cId=566&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Big 2" tvg-logo="Radio Big 2" group-title="radio stanice",Radio Big 2
+http://osm.mikiosm.com:82/live?cId=515&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Sarajevo" tvg-logo="Radio Sarajevo" group-title="radio stanice",Radio Sarajevo
+http://osm.mikiosm.com:82/live?cId=398&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Lukavac" tvg-logo="Radio Lukavac" group-title="radio stanice",Radio Lukavac
+http://osm.mikiosm.com:82/live?cId=519&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Orasje" tvg-logo="Radio Orasje" group-title="radio stanice",Radio Orasje
+http://osm.mikiosm.com:82/live?cId=499&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Radio Studio M" tvg-logo="Radio Studio M" group-title="radio stanice",Radio Studio M
+http://osm.mikiosm.com:82/live?cId=396&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="&&& XXXX  KANALI &&&" tvg-logo="&&& XXXX  KANALI &&&" group-title="xxxx kanali",&&& XXXX  KANALI &&&
+http://osm.mikiosm.com:82/live?cId=473&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18 : Pink Eurotic 1 HD" tvg-logo="XXX 18 : Pink Eurotic 1 HD" group-title="xxxx kanali",XXX 18 : Pink Eurotic 1 HD
+http://osm.mikiosm.com:82/live?cId=664&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18 : Pink Eurotic 2" tvg-logo="XXX 18 : Pink Eurotic 2" group-title="xxxx kanali",XXX 18 : Pink Eurotic 2
+http://osm.mikiosm.com:82/live?cId=665&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18 : Pink Eurotic 3" tvg-logo="XXX 18 : Pink Eurotic 3" group-title="xxxx kanali",XXX 18 : Pink Eurotic 3
+http://osm.mikiosm.com:82/live?cId=666&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18 : Pink Eurotic 4" tvg-logo="XXX 18 : Pink Eurotic 4" group-title="xxxx kanali",XXX 18 : Pink Eurotic 4
+http://osm.mikiosm.com:82/live?cId=252&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18 : Pink Eurotic 5" tvg-logo="XXX 18 : Pink Eurotic 5" group-title="xxxx kanali",XXX 18 : Pink Eurotic 5
+http://osm.mikiosm.com:82/live?cId=667&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX 18 : Pink Eurotic 6" tvg-logo="XXX 18 : Pink Eurotic 6" group-title="xxxx kanali",XXX 18 : Pink Eurotic 6
+http://osm.mikiosm.com:82/live?cId=638&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX18 : Pink Eurotik 7" tvg-logo=" XXX18 : Pink Eurotik 7" group-title="xxxx kanali",XXX18 : Pink Eurotik 7
+http://osm.mikiosm.com:82/live?cId=643&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Pink Eurotica 8" tvg-logo="XXX: Pink Eurotica 8" group-title="xxxx kanali",XXX: Pink Eurotica 8
+http://osm.mikiosm.com:82/live?cId=539&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX:  Adult Anal HD" tvg-logo="XXX: Adult Anal HD" group-title="xxxx kanali",XXX:  Adult Anal HD
+http://osm.mikiosm.com:82/live?cId=449&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX:  Adult Teen HD" tvg-logo="XXX: Adult Teen HD" group-title="xxxx kanali",XXX:  Adult Teen HD
+http://osm.mikiosm.com:82/live?cId=317&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX:Adul Compilation HD" tvg-logo="XXX: Adul Compilation HD" group-title="xxxx kanali",XXX:Adul Compilation HD
+http://osm.mikiosm.com:82/live?cId=730&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Adult Asian HD" tvg-logo="XXX: Adult Asian HD" group-title="xxxx kanali",XXX: Adult Asian HD
+http://osm.mikiosm.com:82/live?cId=146&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX:Adult Russian HD" tvg-logo="XXX:Adult Russian HD" group-title="xxxx kanali",XXX:Adult Russian HD
+http://osm.mikiosm.com:82/live?cId=145&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Balkan erotic" tvg-logo="XXX Balkan erotic" group-title="xxxx kanali",XXX: Balkan erotic
+http://osm.mikiosm.com:82/live?cId=401&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RedTraffic Pornstar " tvg-logo="XXX: RedTraffic Pornstar " group-title="xxxx kanali",XXX: RedTraffic Pornstar 
+http://osm.mikiosm.com:82/live?cId=550&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Fake Taxi HD N" tvg-logo="XXX: Fake Taxi HD N" group-title="xxxx kanali",XXX: Fake Taxi HD N
+http://osm.mikiosm.com:82/live?cId=268&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX:AdultI MILF" tvg-logo="XXX:AdultI MILF" group-title="xxxx kanali",XXX:AdultI MILF
+http://osm.mikiosm.com:82/live?cId=484&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RedTraffic Big Tits " tvg-logo="XXX: RedTraffic Big Tits " group-title="xxxx kanali",XXX: RedTraffic Big Tits 
+http://osm.mikiosm.com:82/live?cId=25&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX :Redlight HD" tvg-logo="XXX :Redlight HD" group-title="xxxx kanali",XXX :Redlight HD
+http://osm.mikiosm.com:82/live?cId=448&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT HD" tvg-logo="XXX:REDLIGHT HD" group-title="xxxx kanali",XXX: REDLIGHT HD
+http://osm.mikiosm.com:82/live?cId=509&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Private HD" tvg-logo="XXX: Private HD" group-title="xxxx kanali",XXX: Private HD
+http://osm.mikiosm.com:82/live?cId=181&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Hustler  HD" tvg-logo="XXX :Hustler HD" group-title="xxxx kanali",XXX: Hustler  HD
+http://osm.mikiosm.com:82/live?cId=334&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX:3 Brazzers" tvg-logo="XXX:3 Brazzers" group-title="xxxx kanali",XXX:3 Brazzers
+http://osm.mikiosm.com:82/live?cId=322&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX:Super One HD" tvg-logo="XXX:Super One HD" group-title="xxxx kanali",XXX:Super One HD
+http://osm.mikiosm.com:82/live?cId=144&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Lesbian HD" tvg-logo="XXX: Lesbian HD" group-title="xxxx kanali",XXX: Lesbian HD
+http://osm.mikiosm.com:82/live?cId=541&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="Boxnation HD" tvg-logo="Boxnation HD" group-title="sportski kanali",Boxnation HD
+http://osm.mikiosm.com:82/live?cId=446&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
+#EXTINF:-1 tvg-id="" tvg-name="test adiam" tvg-logo="test adiam" group-title="sportski kanali",test adiam
+http://osm.mikiosm.com:82/live?cId=753&uId=1029&deviceUser=J4anu96pexHoiwkc&devicePass=EZZLZXwKi9ZfGj46
